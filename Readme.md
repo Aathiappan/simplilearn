@@ -2,4 +2,4 @@
 
 ## Test 1: Hello World Output
 
-## Local: testing conflict by local.
+## Remote: this conflict testing.
